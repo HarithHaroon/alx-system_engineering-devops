@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 $ ./0-current_working_directory echo /root/alx-system_engineering_devops/0x00-shell_basics $
-=======
-echo /root/alx-system_engineering_devops/0x00-shell_basics
->>>>>>> 94d6b99eb94631c24d7bf6c43a1f8d606162778a
